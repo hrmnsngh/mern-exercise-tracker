@@ -1,0 +1,17 @@
+{
+  "name": "mern-exercise-tracker",
+  "version": "1.0.0",
+  "description": "MERN based exercise tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Harman Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  }
+}
